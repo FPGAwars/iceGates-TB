@@ -1,0 +1,18 @@
+{
+  "name": "icegates-tb",
+  "version": "0.1.0",
+  "description": "Testbenches for the Logic gates",
+  "keywords": ["logic", "combinational", "gate", "Testbenches"],
+  "license": "GPL-2.0",
+  "authors": [{
+    "name": "Juan Gonzalez-Gomez (Obijuan)",
+    "email": "",
+    "url": "https://github.com/Obijuan"
+  }],
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "branch": "master",
+    "url": "https://github.com/FPGAwars/iceGates-TB"
+  }
+}
